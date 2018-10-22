@@ -4,6 +4,7 @@ body{
 
     font-family: 'Actor', sans-serif;   
     margin: 0%;
+    background-color: beige;
 }
 .menu li{
     list-style: none;
@@ -52,5 +53,5 @@ footer{
 }
 
 .corpo-curriculo p{
-    padding: 30px;
+    padding: 10px;
 }
